@@ -11,3 +11,11 @@
   border-radius: 10px;
 }
 
+.reveal section img {
+  border: 0px;
+  box-shadow: none;
+}
+
+.reveal .slide-background {
+  background-color: #2bce88;
+}
