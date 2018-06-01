@@ -1,6 +1,6 @@
 @title[Introduction]
-## The Kitchen Sink
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## SalesforceSaturday 赤坂 #01
+![Icon](https://github.com/SalesforceSaturdayTokyo/akasaka-20180602/tree/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
 
 ---
 @title[Theme Switcher]
@@ -13,7 +13,7 @@
 @title[Go Fullscreen]
 
 ## Tip!
-For the *best viewing experience*   
+For the *best viewing experience*
 press **F** key to go fullscreen.
 
 ---
@@ -32,7 +32,7 @@ press **F** key to go fullscreen.
 
 <br>
 
-The *same syntax* you use to create project   
+The *same syntax* you use to create project
 **READMEs** and **Wikis** for your Git repos.
 
 ---
@@ -122,7 +122,7 @@ http.createServer(function (request, response) {
 
 <br>
 
-Use inline images to lend   
+Use inline images to lend
 a *visual punch* to your slideshow presentations.
 
 
@@ -173,7 +173,7 @@ a *visual punch* to your slideshow presentations.
 
 <br>
 
-Use high-resolution background images   
+Use high-resolution background images
 for *maximum impact*.
 
 +++?image=https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/victory.jpg
@@ -198,7 +198,7 @@ for *maximum impact*.
 
 <br>
 
-Embed *YouTube*, *Vimeo*, *MP4* and *WebM*   
+Embed *YouTube*, *Vimeo*, *MP4* and *WebM*
 inline on any slide.
 
 +++
@@ -254,7 +254,7 @@ Go fullscreen with *MP4* and *WebM* videos.
 
 <br>
 
-Use *TeX*, *LaTeX* and *MathML* markup   
+Use *TeX*, *LaTeX* and *MathML* markup
 powered by [MathJax](https://www.mathjax.org).
 
 +++
@@ -395,7 +395,7 @@ Use *Bar*, *Line*, *Area*, and *Scatter* charts among many other chart types dir
 
 <br>
 
-Step through slide content in sequence   
+Step through slide content in sequence
 to *slowly reveal* the bigger picture.
 
 +++
