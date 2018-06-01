@@ -1,6 +1,6 @@
 @title[Introduction]
 ## SalesforceSaturday 赤坂 #01
-![Icon](https://github.com/SalesforceSaturdayTokyo/akasaka-20180602/tree/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
 
 ---
 @title[Theme Switcher]
