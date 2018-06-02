@@ -59,8 +59,11 @@
 +++
 @title[第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)]
 #### 第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce.png)
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce-20180609.png)
+https://www.trailblazers.jp/event/ebisu-salesforce-20180609/
+
+||QR code|
+|---|---|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce-20180609.png)|
 
 +++
 @title[Salesforce DG ルーキー会]
