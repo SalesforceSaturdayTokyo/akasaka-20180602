@@ -60,6 +60,7 @@
 @title[第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)]
 #### 第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)
 <span style="font-size: 20px">https://www.trailblazers.jp/event/ebisu-salesforce-20180609/</span>
+
 |||
 |---|---|
 |![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce-20180609.png)|
