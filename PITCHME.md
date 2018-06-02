@@ -93,6 +93,17 @@
 @fa[arrow-down]
 
 +++
+@title[Salesforce Developer Group ルーキー会 #10]
+#### Salesforce Developer Group ルーキー会 #10
+<span style="font-size: 28px">https://sfdgr.connpass.com/event/89469/</span>
+
+|||
+|---|---|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/event89469.png)|
+
+@fa[arrow-down]
+
++++
 @title[The Others8]
 #### その他のイベント情報はこちらから
 <span style="font-size: 24px">https://www.trailblazers.jp/events/</span>
