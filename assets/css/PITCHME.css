@@ -16,6 +16,6 @@
   box-shadow: none;
 }
 
-/* .reveal .slide-background {
-  background-color: #2bce88;
-} */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none;
+}
