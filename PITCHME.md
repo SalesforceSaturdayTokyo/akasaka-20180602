@@ -108,12 +108,10 @@
 #### その他のイベント情報はこちらから
 <span style="font-size: 24px">https://www.trailblazers.jp/events/</span>
 
-|||
-|---|---|
-|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/trailblazersjp.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp_event.png)|
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp_event.png)
 
 ---?color=#2bce88
 @title[Next]
 ## 次回の SalesforceSaturday 赤坂
-
+2018/08/xx (土)
 ![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
