@@ -2,11 +2,66 @@
 ![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
 
 ---
-@title[Theme Switcher]
+@title[Guest WiFi]
+![1](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_01.png)
 
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available inside burger-menu.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![2](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_02.png)
+
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![3](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_03.png)
+
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![4](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_04.png)
+
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![5](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_05.png)
+
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![6](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_06.png)
+
+@fa[arrow-down]
+
++++
+@title[Guest WiFi]
+![7](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_07.png)
+
+---
+@title[Tokyo Salesforce Developer Group]
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/dugtokyo.png)
+
+---
+@title[Trailblazer Community]
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)
+
+@fa[arrow-down]
+
++++
+@title[Tokyo Salesforce Developer Group]
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/dugtokyo.png)
+
++++
+@title[Salesforce DG ルーキー会]
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)
+
++++
+@title[Salesforce女子部]
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/jyoshibu.png)
 
 ---
 @title[Go Fullscreen]
