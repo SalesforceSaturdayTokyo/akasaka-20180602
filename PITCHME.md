@@ -52,7 +52,9 @@
 
 ---
 @title[Trailblazer Community Event]
-# 近日開催予定の Trailblazer Community Event 情報
+# 近日開催予定の
+# Trailblazer Community
+# Event 情報
 
 @fa[arrow-down]
 
