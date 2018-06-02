@@ -99,7 +99,7 @@
 
 |||
 |---|---|
-|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/event89469.png)|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/89469.png)|
 
 @fa[arrow-down]
 
