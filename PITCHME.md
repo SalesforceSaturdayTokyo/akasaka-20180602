@@ -60,19 +60,21 @@
 
 +++
 @title[第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)]
-#### 第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)
+#### 第８回 恵比寿Salesforce勉強会
+#### (Trailheadもくもく会)
 <span style="font-size: 30px">https://www.trailblazers.jp/event/ebisu-salesforce-20180609/</span>
 
 |||
 |---|---|
 |![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/ebisu-salesforce-20180609.png)|
 
-+++
-@title[Salesforce DG ルーキー会]
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/rookies.png)
+@fa[arrow-down]
 
 +++
-@title[Salesforce女子部]
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/jyoshibu.png)
+@title[Salesforce女子部 #18]
+#### Salesforce女子部 #18
+<span style="font-size: 30px">https://www.trailblazers.jp/event/salesforce%E5%A5%B3%E5%AD%90%E9%83%A8-18/</span>
 
----
+|||
+|---|---|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/jyoshibu.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/HGUvyh.png)|
