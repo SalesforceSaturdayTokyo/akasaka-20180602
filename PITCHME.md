@@ -44,12 +44,10 @@
 ---
 @title[自己紹介タイム]
 # 自己紹介タイム
-おひとり30秒前後でお願いします！
+お一人 30秒前後 でお願いします！
 ### お名前
 ### 所属
 ### 本日の目標など
-
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
 
 ---
 @title[Trailblazer Community]
