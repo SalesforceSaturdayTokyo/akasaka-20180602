@@ -52,9 +52,9 @@
 
 ---
 @title[Trailblazer Community Event]
-# 近日開催予定の
-# Trailblazer Community
-# Event 情報
+## 近日開催予定の
+## Trailblazer Community
+## Event 情報
 
 @fa[arrow-down]
 
@@ -73,8 +73,19 @@
 +++
 @title[Salesforce女子部 #18]
 #### Salesforce女子部 #18
-<span style="font-size: 30px">https://www.trailblazers.jp/event/salesforce%E5%A5%B3%E5%AD%90%E9%83%A8-18/</span>
+<span style="font-size: 28px">https://www.trailblazers.jp/event/salesforce%E5%A5%B3%E5%AD%90%E9%83%A8-18/</span>
 
 |||
 |---|---|
 |![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/jyoshibu.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/HGUvyh.png)|
+
+@fa[arrow-down]
+
++++
+@title[Salesforce Developers Meetup #18]
+#### Tokyo Salesforce Developers Meetup #18
+<span style="font-size: 28px">https://www.trailblazers.jp/event/tokyo-salesforce-developers-meetup-18/</span>
+
+|||
+|---|---|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/dugtokyo.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/tokyo-salesforce-developers-meetup-18.png)|
