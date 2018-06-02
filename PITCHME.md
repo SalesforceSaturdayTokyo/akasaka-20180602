@@ -97,4 +97,6 @@
 #### その他のイベント情報はこちらから
 <span style="font-size: 24px">https://www.trailblazers.jp/events/</span>
 
-![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp_event.png)
+|||
+|---|---|
+|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp_event.png)|
