@@ -62,7 +62,7 @@
 @title[第８回 恵比寿Salesforce勉強会 (Trailheadもくもく会)]
 #### 第８回 恵比寿Salesforce勉強会
 #### (Trailheadもくもく会)
-<span style="font-size: 30px">https://www.trailblazers.jp/event/ebisu-salesforce-20180609/</span>
+<span style="font-size: 28px">https://www.trailblazers.jp/event/ebisu-salesforce-20180609/</span>
 
 |||
 |---|---|
@@ -73,7 +73,7 @@
 +++
 @title[Salesforce女子部 #18]
 #### Salesforce女子部 #18
-<span style="font-size: 28px">https://www.trailblazers.jp/event/salesforce%E5%A5%B3%E5%AD%90%E9%83%A8-18/</span>
+<span style="font-size: 24px">https://www.trailblazers.jp/event/salesforce%E5%A5%B3%E5%AD%90%E9%83%A8-18/</span>
 
 |||
 |---|---|
@@ -89,3 +89,12 @@
 |||
 |---|---|
 |![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/dugtokyo.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/tokyo-salesforce-developers-meetup-18.png)|
+
+@fa[arrow-down]
+
++++
+@title[The Others8]
+# その他のイベント情報はこちらから
+<span style="font-size: 24px">https://www.trailblazers.jp/events/</span>
+
+![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp.png)|![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/wwwtrailblazersjp_event.png)
