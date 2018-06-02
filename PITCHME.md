@@ -1,7 +1,8 @@
+---?color=#2bce88
 @title[Introduction]
 ![Icon](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/SalesforceSaturdayAkasaka_logo_twitter.png)
 
----?color=#2bce88
+---
 @title[Guest WiFi]
 ![1](https://raw.githubusercontent.com/SalesforceSaturdayTokyo/akasaka-20180602/master/assets/guest_wifi_01.jpeg)
 
