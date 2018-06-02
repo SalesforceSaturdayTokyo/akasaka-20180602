@@ -51,6 +51,14 @@
 ### 本日の目標など
 
 ---
+@title[成果報告タイム]
+# 成果報告タイム
+お一人 30秒前後 でお願いします！
+### お名前
+### 本日の成果
+### 次の目標など
+
+---
 @title[Trailblazer Community Event]
 ## 近日開催予定の
 ## Trailblazer Community
