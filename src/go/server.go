@@ -21,9 +21,9 @@ func (s *FundServer) loop() {
     // The built-in "range" clause can iterate
     // over channels, amongst other things
     for command := range s.Commands {
-    
+
         // Handle the command
-        
+
     }
 }
 
